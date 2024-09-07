@@ -1,4 +1,6 @@
 {
-  "locale": "en-US",
-  "api.domain": "localhost:3050"
+  "api.domain": "localhost:3050",
+  "api.secure": "false",
+  "api.path": "/",
+  "locale": "en-US"
 }
