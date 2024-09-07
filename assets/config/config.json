@@ -1,4 +1,4 @@
 {
   "locale": "it-IT",
-  "api.domain": "http://localhost:3050"
+  "api.domain": "localhost:3050"
 }
