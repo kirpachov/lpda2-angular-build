@@ -1,6 +1,6 @@
 {
-  "api.domain2": "lpda2api.kirpachov.com",
-  "api.secure2": "true",
-  "api.path2": "/",
+  "api.domain": "lpda2api.kirpachov.com",
+  "api.secure": "true",
+  "api.path": "/",
   "locale": "it-IT"
 }
