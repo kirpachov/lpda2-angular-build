@@ -1,6 +1,6 @@
 {
-  "api.domain": "localhost:3050",
-  "api.secure": "false",
+  "api.domain": "kirpachov.com:3050",
+  "api.secure": "true",
   "api.path": "/",
   "locale": "it-IT"
 }
