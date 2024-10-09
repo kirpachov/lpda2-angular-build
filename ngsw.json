@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1728502314244,
+  "timestamp": 1728505570687,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -81,7 +81,7 @@
         "/868.b4d58fcc1d0ba228.js",
         "/8694.6c69a1d951d637bb.js",
         "/8808.3cf598ae46731323.js",
-        "/9116.e338e48cee91e302.js",
+        "/9116.72b2cfd8c45da6b2.js",
         "/9168.e8028bfd0bd5ff38.js",
         "/9212.266ac3f52c5091b2.js",
         "/9232.dece3ccbad680002.js",
@@ -101,7 +101,7 @@
         "/main.d1b1e25d77c50e4d.js",
         "/manifest.webmanifest",
         "/polyfills.d7188c3fff20428b.js",
-        "/runtime.ae2a2006dc83ec76.js",
+        "/runtime.e34610a9415f88b3.js",
         "/styles.98ebd1ab7842a545.css"
       ],
       "patterns": []
@@ -1505,7 +1505,7 @@
     "/868.b4d58fcc1d0ba228.js": "8692433db14f2561d29a63194d1645be8505beeb",
     "/8694.6c69a1d951d637bb.js": "778e9ac3403b62a355300004fe02b492a305ffdc",
     "/8808.3cf598ae46731323.js": "49583fda29097bdeb946fbe54e493b5d1e814911",
-    "/9116.e338e48cee91e302.js": "c8991ac97d8388453b79b51446c95dbc2a691b9e",
+    "/9116.72b2cfd8c45da6b2.js": "ed9191092a0155032a5d4b57a8e704c928091a94",
     "/9168.e8028bfd0bd5ff38.js": "ce81b64661d4f3f0144411eadc084c5f353edc68",
     "/9212.266ac3f52c5091b2.js": "db612554b4e376848e25e32c8c64a746706c1ac5",
     "/9232.dece3ccbad680002.js": "1a7f48281482f5b9272a16e60bb8dbb62694e962",
@@ -1529,7 +1529,7 @@
     "/UMBQrPtMoH62xUZKdK0vfQr4.605fc20093ccc134.woff2": "f544cd27bf941e09c03524582432c5458b320074",
     "/UMBTrPtMoH62xUZCwYg6Qis.bc51edf5bcf38750.woff2": "9a909157483576b179365e6a98b028a52d3ca37b",
     "/UMBTrPtMoH62xUZCz4g6.b3f17699f95f382d.woff2": "bcf09b8aa4751223c2c57e42746b33b3543f2ffa",
-    "/assets/config/config.example.json": "027bbfd3786ac664e66a3d4d5070b45b6bb5b035",
+    "/assets/config/config.example.json": "f584d4c485324febcf44503ec0e4341bfb2ab9dd",
     "/assets/config/config.json": "8e500ffda2f3a5f750cd4f6e20dcd5d9a3986a29",
     "/assets/fonts/CalifornianFBItalic.ttf": "ddb6ed4919a724b9775aa6431f551c11da19b302",
     "/assets/fonts/CalifornianFBRegular.ttf": "932eb0748ea63723e708b28d99d812efb3b4340c",
@@ -2832,14 +2832,14 @@
     "/assets/taiga-ui/icons/tuiIconZoomOutOutline.svg": "649232602165b4880fe74e2c1fc59c37a5c76ea8",
     "/common.bf514476d75d6b96.js": "865071f3871c77df2e9ee659a70c74c499dae2d4",
     "/favicon.ico": "f0fc6b316979e51662ad5090e27fff099afc89c9",
-    "/index.html": "390d25329309d0a959cda07c499678c07c68c284",
+    "/index.html": "5868826391a7bc054e1a9022bd1a57453f351cd0",
     "/main.d1b1e25d77c50e4d.js": "e3a453eeb73663538acc933f524f5b39dac8065e",
     "/manifest.webmanifest": "8da9fe8b769a9c8c0931da8390f4803175527f14",
     "/manrope-v15-xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.31ad210ad0d42515.ttf": "354f38624776caf6ea35d04d8b23d66caed334db",
     "/manrope-v15-xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.810f2efb2879f76b.ttf": "d8d99489be0842910ab8d185a5061c6f0016df82",
     "/materialicons-v142-flUhRq6tzZclQEJ-Vdg-IuiaDsNc.59322316b3fd6063.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
     "/polyfills.d7188c3fff20428b.js": "9b49e1f2224016a9a44185c7f3463962e5f8c58b",
-    "/runtime.ae2a2006dc83ec76.js": "bd796f4cb22fd97b7ed9151f5491d236d7203b79",
+    "/runtime.e34610a9415f88b3.js": "f493edfbec38f42bef9543bc6827b007ed4dcf39",
     "/styles.98ebd1ab7842a545.css": "56a0890768c5a219b7b3ad4cf992bbc6ccaa5df4",
     "/tangerine-v17-IurY6Y5j_oScZZow4VOxCZZM.f3b6feface22c15c.woff2": "ceb6b354452bbba6394faa5cd5a6463b69319ec9"
   },
