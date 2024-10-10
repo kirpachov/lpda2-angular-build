@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklpda2=self.webpackChunklpda2||[]).push([[5672],{5672:(l,t,n)=>{n.r(t),n.d(t,{routes:()=>s});const s=[{path:"",loadComponent:()=>Promise.all([n.e(5656),n.e(7544),n.e(7936),n.e(2996),n.e(2448),n.e(4816),n.e(8576),n.e(7568),n.e(6784),n.e(9312),n.e(2984)]).then(n.bind(n,2984)).then(o=>o.ListSettingsComponent)}]}}]);
