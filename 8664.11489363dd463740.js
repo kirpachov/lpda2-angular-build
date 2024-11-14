@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklpda2=self.webpackChunklpda2||[]).push([[8664],{88664:(o,t,n)=>{n.r(t),n.d(t,{routes:()=>d});const d=[{path:"",loadComponent:()=>Promise.all([n.e(1560),n.e(9312),n.e(836)]).then(n.bind(n,37700)).then(l=>l.ListComponent),children:[{path:":key",loadChildren:()=>Promise.all([n.e(9312),n.e(4680)]).then(n.bind(n,6648)).then(l=>l.UpdateModule)}]}]}}]);
