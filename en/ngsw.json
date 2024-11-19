@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732055144425,
+  "timestamp": 1732055865948,
   "index": "/en/index.html",
   "assetGroups": [
     {
@@ -127,13 +127,13 @@
         "/en/9888.5f2ab093a47121c8.js",
         "/en/9900.09e5a704d4f85c8f.js",
         "/en/9904.5b479621d57edcab.js",
-        "/en/common.bfa42a860a5d3f23.js",
+        "/en/common.a3ac37fb9b5ed06c.js",
         "/en/favicon.ico",
         "/en/index.html",
-        "/en/main.0168ade03eb50189.js",
+        "/en/main.e8b21016feabb5f7.js",
         "/en/manifest.webmanifest",
         "/en/polyfills.d7188c3fff20428b.js",
-        "/en/runtime.65dcf89e4fc8949a.js",
+        "/en/runtime.85a3e6e8cd69c426.js",
         "/en/styles.6fac06cca155126b.css"
       ],
       "patterns": []
@@ -2900,16 +2900,16 @@
     "/en/assets/taiga-ui/icons/tuiIconZoomOut.svg": "2ee6d88fae4ab638d5c1a7dc12c76f96c17dcad0",
     "/en/assets/taiga-ui/icons/tuiIconZoomOutLarge.svg": "395326ffdf53e7a698b61cc4e3e3813ecf2d3448",
     "/en/assets/taiga-ui/icons/tuiIconZoomOutOutline.svg": "649232602165b4880fe74e2c1fc59c37a5c76ea8",
-    "/en/common.bfa42a860a5d3f23.js": "35da2413cc9cae5cce55dfb5497376807e982cb9",
+    "/en/common.a3ac37fb9b5ed06c.js": "c0b81e6908d81e0804d0a0ca652531140d539db7",
     "/en/favicon.ico": "f0fc6b316979e51662ad5090e27fff099afc89c9",
-    "/en/index.html": "ca839370680bce7f0a4b73bbebbd488046408c1a",
-    "/en/main.0168ade03eb50189.js": "e955622dc691be58c15ed0ba9543ee1d97413f5b",
+    "/en/index.html": "6611fe275925c6c17b8898f694c2378e3e8ae024",
+    "/en/main.e8b21016feabb5f7.js": "b5cfc1da7e7d7f3fd2baf2a82bad9053a037601d",
     "/en/manifest.webmanifest": "8da9fe8b769a9c8c0931da8390f4803175527f14",
     "/en/manrope-v15-xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.31ad210ad0d42515.ttf": "354f38624776caf6ea35d04d8b23d66caed334db",
     "/en/manrope-v15-xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.810f2efb2879f76b.ttf": "d8d99489be0842910ab8d185a5061c6f0016df82",
     "/en/materialicons-v142-flUhRq6tzZclQEJ-Vdg-IuiaDsNc.59322316b3fd6063.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
     "/en/polyfills.d7188c3fff20428b.js": "9b49e1f2224016a9a44185c7f3463962e5f8c58b",
-    "/en/runtime.65dcf89e4fc8949a.js": "0c18c3a58b55b1ca3a3f3626f11871123ab7c9f0",
+    "/en/runtime.85a3e6e8cd69c426.js": "b3aaf9dfc9bf10a8daa8ba41156632536ce4fa5b",
     "/en/styles.6fac06cca155126b.css": "3321594d7dee8d2b31c26cda90376907acf45d78",
     "/en/tangerine-v17-IurY6Y5j_oScZZow4VOxCZZM.f3b6feface22c15c.woff2": "ceb6b354452bbba6394faa5cd5a6463b69319ec9"
   },

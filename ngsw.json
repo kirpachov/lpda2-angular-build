@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732055144258,
+  "timestamp": 1732055865700,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -127,13 +127,13 @@
         "/9888.5f2ab093a47121c8.js",
         "/9900.09e5a704d4f85c8f.js",
         "/9904.5b479621d57edcab.js",
-        "/common.bfa42a860a5d3f23.js",
+        "/common.a3ac37fb9b5ed06c.js",
         "/favicon.ico",
         "/index.html",
-        "/main.0168ade03eb50189.js",
+        "/main.e8b21016feabb5f7.js",
         "/manifest.webmanifest",
         "/polyfills.d7188c3fff20428b.js",
-        "/runtime.65dcf89e4fc8949a.js",
+        "/runtime.85a3e6e8cd69c426.js",
         "/styles.6fac06cca155126b.css"
       ],
       "patterns": []
@@ -2900,16 +2900,16 @@
     "/assets/taiga-ui/icons/tuiIconZoomOut.svg": "2ee6d88fae4ab638d5c1a7dc12c76f96c17dcad0",
     "/assets/taiga-ui/icons/tuiIconZoomOutLarge.svg": "395326ffdf53e7a698b61cc4e3e3813ecf2d3448",
     "/assets/taiga-ui/icons/tuiIconZoomOutOutline.svg": "649232602165b4880fe74e2c1fc59c37a5c76ea8",
-    "/common.bfa42a860a5d3f23.js": "2c0d173b9d417747e41946c535f3a9fe9b3cf0a4",
+    "/common.a3ac37fb9b5ed06c.js": "26446477679bf90babc9e29c7cd65dcfcb19cb54",
     "/favicon.ico": "f0fc6b316979e51662ad5090e27fff099afc89c9",
-    "/index.html": "01785af8090225e29af4ef3e2501a47274c93d6e",
-    "/main.0168ade03eb50189.js": "5d0d28a2c1518521d83367a0748357a28b01d831",
+    "/index.html": "70df0266601a757b1620ca61d935dc1bb28aa5eb",
+    "/main.e8b21016feabb5f7.js": "60ca7b4d4ef43e490bf6b722c048d5af744a3ffa",
     "/manifest.webmanifest": "8da9fe8b769a9c8c0931da8390f4803175527f14",
     "/manrope-v15-xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.31ad210ad0d42515.ttf": "354f38624776caf6ea35d04d8b23d66caed334db",
     "/manrope-v15-xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.810f2efb2879f76b.ttf": "d8d99489be0842910ab8d185a5061c6f0016df82",
     "/materialicons-v142-flUhRq6tzZclQEJ-Vdg-IuiaDsNc.59322316b3fd6063.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
     "/polyfills.d7188c3fff20428b.js": "9b49e1f2224016a9a44185c7f3463962e5f8c58b",
-    "/runtime.65dcf89e4fc8949a.js": "0c18c3a58b55b1ca3a3f3626f11871123ab7c9f0",
+    "/runtime.85a3e6e8cd69c426.js": "b3aaf9dfc9bf10a8daa8ba41156632536ce4fa5b",
     "/styles.6fac06cca155126b.css": "3321594d7dee8d2b31c26cda90376907acf45d78",
     "/tangerine-v17-IurY6Y5j_oScZZow4VOxCZZM.f3b6feface22c15c.woff2": "ceb6b354452bbba6394faa5cd5a6463b69319ec9"
   },
