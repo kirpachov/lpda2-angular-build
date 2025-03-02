@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1740948889361,
+  "timestamp": 1740952908919,
   "index": "/en/index.html",
   "assetGroups": [
     {
@@ -1619,7 +1619,7 @@
     "/en/UMBTrPtMoH62xUZCz4g6.b3f17699f95f382d.woff2": "bcf09b8aa4751223c2c57e42746b33b3543f2ffa",
     "/en/assets/config/config.example.json": "012c0f1a72c1efd4ac01f41b4520338ef3263ec8",
     "/en/assets/config/config.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-    "/en/assets/config/config.prod.json": "440fcd1bb350d6d92c9b7259249b867fc22bf079",
+    "/en/assets/config/config.prod.json": "17f2eef5dbb690f339bee037ff1151e910692efe",
     "/en/assets/fonts/CalifornianFBItalic.ttf": "ddb6ed4919a724b9775aa6431f551c11da19b302",
     "/en/assets/fonts/CalifornianFBRegular.ttf": "932eb0748ea63723e708b28d99d812efb3b4340c",
     "/en/assets/fonts/TrajanProBold.ttf": "b7b4fe40da8152994d599a1bfdd8bc2b9b33d1bf",
