@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1741009444176,
+  "timestamp": 1741010099030,
   "index": "/en/index.html",
   "assetGroups": [
     {
@@ -140,7 +140,7 @@
         "/en/common.8400f78c18c0ff33.js",
         "/en/favicon.ico",
         "/en/index.html",
-        "/en/main.1fcae45f0584bf78.js",
+        "/en/main.c58b7137727f5501.js",
         "/en/manifest.webmanifest",
         "/en/polyfills.d7188c3fff20428b.js",
         "/en/runtime.d473bf5acc8869ec.js",
@@ -2924,8 +2924,8 @@
     "/en/assets/taiga-ui/icons/tuiIconZoomOutOutline.svg": "649232602165b4880fe74e2c1fc59c37a5c76ea8",
     "/en/common.8400f78c18c0ff33.js": "0fcf995d77856e738c1a98eee46c4129af79b75b",
     "/en/favicon.ico": "f0fc6b316979e51662ad5090e27fff099afc89c9",
-    "/en/index.html": "b5795f34174914f8237216bef9865c7813c5028e",
-    "/en/main.1fcae45f0584bf78.js": "1a85ac9c9e71084ca7a1982153578a3c40a14916",
+    "/en/index.html": "92d708beaf780a33aa3e61b926c2c9e1f8189f36",
+    "/en/main.c58b7137727f5501.js": "790746631322fb3425394ee851f2bdaab87e26bc",
     "/en/manifest.webmanifest": "8da9fe8b769a9c8c0931da8390f4803175527f14",
     "/en/manrope-v15-xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.31ad210ad0d42515.ttf": "354f38624776caf6ea35d04d8b23d66caed334db",
     "/en/manrope-v15-xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.810f2efb2879f76b.ttf": "d8d99489be0842910ab8d185a5061c6f0016df82",
