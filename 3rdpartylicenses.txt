@@ -2241,6 +2241,9 @@ Apache-2.0
    See the License for the specific language governing permissions and
    limitations under the License.
 
+actioncable
+MIT
+
 angularx-qrcode
 MIT
 The MIT License (MIT)
