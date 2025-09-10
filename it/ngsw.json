@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1757457323377,
+  "timestamp": 1757497585472,
   "index": "/it/index.html",
   "assetGroups": [
     {
@@ -44,7 +44,7 @@
         "/it/3036.3a24ff5eb863e27d.js",
         "/it/3044.63891a8b423c9a4a.js",
         "/it/3180.69fc1578e8309179.js",
-        "/it/3212.c75c957d7dce0695.js",
+        "/it/3212.600ee0edd169685c.js",
         "/it/3220.eaf33ba3680508b8.js",
         "/it/3268.51f8d2fcbc5e61d2.js",
         "/it/3320.4e4f93e64701e4e7.js",
@@ -152,7 +152,7 @@
         "/it/main.13ed10bd1a744695.js",
         "/it/manifest.webmanifest",
         "/it/polyfills.d7188c3fff20428b.js",
-        "/it/runtime.77c80dd6d2d15ebb.js",
+        "/it/runtime.d42c411de738aa89.js",
         "/it/styles.f9cdcb43edaec091.css"
       ],
       "patterns": []
@@ -1524,7 +1524,7 @@
     "/it/3036.3a24ff5eb863e27d.js": "f945869d6175b4ad83fb585b9a245aa672941866",
     "/it/3044.63891a8b423c9a4a.js": "955bbda018ee73857fed221168f1db4f81af5a91",
     "/it/3180.69fc1578e8309179.js": "1e2f022c4e9293dae04b7e7a0da4ae7872b4782d",
-    "/it/3212.c75c957d7dce0695.js": "0fa578024d85021f8c69248bc4b86ab883c7253b",
+    "/it/3212.600ee0edd169685c.js": "62063c8129642d59130d0f70ac6594430519aa30",
     "/it/3220.eaf33ba3680508b8.js": "60bde8310034cb71d0431438d2062b28183a09f8",
     "/it/3268.51f8d2fcbc5e61d2.js": "95cfe2242ab6b58b1ccf90cd69117a67bbe80310",
     "/it/3320.4e4f93e64701e4e7.js": "e1b3ff0ff278524a36d23b12cf68e779d7b87959",
@@ -2944,14 +2944,14 @@
     "/it/assets/taiga-ui/icons/tuiIconZoomOutOutline.svg": "649232602165b4880fe74e2c1fc59c37a5c76ea8",
     "/it/common.ca5717fdcb96ac83.js": "18c30e3102787d1585f243362a458e9bd4302781",
     "/it/favicon.ico": "f0fc6b316979e51662ad5090e27fff099afc89c9",
-    "/it/index.html": "cffecdf5d6aa78240ce08f7ddf15eef636c3753f",
+    "/it/index.html": "89fa436ec9e3edea759a9f27e1644542daf64365",
     "/it/main.13ed10bd1a744695.js": "3431af65bf46d72bc3dbd9e6af30f54ef6487b62",
     "/it/manifest.webmanifest": "8da9fe8b769a9c8c0931da8390f4803175527f14",
     "/it/manrope-v15-xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.31ad210ad0d42515.ttf": "354f38624776caf6ea35d04d8b23d66caed334db",
     "/it/manrope-v15-xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.810f2efb2879f76b.ttf": "d8d99489be0842910ab8d185a5061c6f0016df82",
     "/it/materialicons-v142-flUhRq6tzZclQEJ-Vdg-IuiaDsNc.59322316b3fd6063.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
     "/it/polyfills.d7188c3fff20428b.js": "9b49e1f2224016a9a44185c7f3463962e5f8c58b",
-    "/it/runtime.77c80dd6d2d15ebb.js": "d3a83f4c7ba4df5fc8d61294e577746fdab4af51",
+    "/it/runtime.d42c411de738aa89.js": "c53f62a4057879c49294dcaa24a21f954a24d43b",
     "/it/styles.f9cdcb43edaec091.css": "3934c7ecb3d7eaf4bae696a7d557ecc19dd7c16a",
     "/it/tangerine-v17-IurY6Y5j_oScZZow4VOxCZZM.f3b6feface22c15c.woff2": "ceb6b354452bbba6394faa5cd5a6463b69319ec9"
   },
