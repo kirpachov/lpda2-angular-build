@@ -104,6 +104,9 @@ Apache-2.0
 @maskito/kit
 Apache-2.0
 
+@microsoft/clarity
+MIT
+
 @ng-web-apis/common
 Apache-2.0
                                  Apache License
